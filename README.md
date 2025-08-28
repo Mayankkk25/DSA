@@ -1,2 +1,2 @@
 # DSA
-DSA question solved on leetcode (C++)
+DSA question solved on leetcode in C++
